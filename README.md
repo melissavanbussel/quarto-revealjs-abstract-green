@@ -4,7 +4,7 @@ This repo contains an abstract green theme for Quarto revealjs presentations.
 
 ![](demo.gif)
 
-You can find a rendered version of this template [here](https://www.melissavanbussel.quarto.pub/quarto-revealjs-abstract-green).
+You can find a rendered version of this template [here](https://melissavanbussel.quarto.pub/quarto-revealjs-abstract-green/).
 
 ## Using this theme
 
