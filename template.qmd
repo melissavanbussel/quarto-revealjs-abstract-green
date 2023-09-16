@@ -2,6 +2,12 @@
 format: 
   revealjs:
     theme: green.scss
+    include-after-body: clean_title_page.html
+    footer: "This is your footer [and this is a link](https://www.youtube.com/@ggnot2)"
+    highlight-style: "ayu-mirage"
+    width: 1600
+    height: 900
+    code-line-numbers: false
 ---
 
 ## .theme-title1 {.theme-title1 .center}
