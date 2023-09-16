@@ -1,0 +1,299 @@
+---
+format: 
+  revealjs:
+    theme: green.scss
+---
+
+## .theme-title1 {.theme-title1 .center}
+
+### quarto-revealjs-abstract-green
+
+::: footer
+
+:::
+
+## .theme-title2 {.theme-title2 .center}
+
+### quarto-revealjs-abstract-green
+
+::: footer
+
+:::
+
+## .theme-title3 {.theme-title3 .center}
+
+::: footer
+
+:::
+
+### quarto-revealjs-abstract-green
+
+## .theme-section1 {.theme-section1}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section2 {.theme-section2}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section3 {.theme-section3}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section4 {.theme-section4}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section5 {.theme-section5}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section6 {.theme-section6}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section7 {.theme-section7}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section8 {.theme-section8}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-section9 {.theme-section9}
+
+### Another subtitle
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+::: footer
+
+:::
+
+## .theme-slide1 {.theme-slide1}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide2 {.theme-slide2}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide3 {.theme-slide3}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide4 {.theme-slide4}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide5 {.theme-slide5}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide6 {.theme-slide6}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide7 {.theme-slide7}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide8 {.theme-slide8}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide9 {.theme-slide9}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide10 {.theme-slide10}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide11 {.theme-slide11}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```
+
+## .theme-slide12 {.theme-slide12}
+
+* This is some <b>bold</b> text and [this is a link](https://quarto.org/docs/presentations/).
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+<br>
+
+```{r}
+#| echo: true
+#| eval: false
+# Create a character value
+my_string <- paste("Hello, world!", 1.5 * 2 + 7)
+```

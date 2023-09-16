@@ -1,0 +1,10 @@
+title: Abstract Green Theme
+author: Melissa Van Bussel
+version: 1.0.0
+contributes:
+  format:
+    revealjs:
+      theme: [default, green.scss]
+      width: 1600
+      height: 900
+      code-line-numbers: false
